@@ -1,4 +1,4 @@
-# 42_picsine_2022
+# 42_piscine_2022
 This is a repository with all the work I've done during the C pool that took place in tetouan shore at 1337 school in mai 2022.
 
 # Please, DO NOT copie + paste this thing with emptiness in your eyes and blank in your head!
